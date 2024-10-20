@@ -1,1 +1,1 @@
-# Lip-Reading-MIRACL-VC1-
+# Lip-Reading-MIRACL-VC1
