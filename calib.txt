@@ -1,0 +1,18 @@
+intrinsic matrix for the depth sensor
+584.27 0 337.11
+0 584.27 254.17
+0 0 1
+
+intrinsic matrix of the color camera
+519.47 0 329.76
+0 519.47 264.09
+0 0 1
+
+extrinsic parameters mapping the depth coordinate system to the camera coordinate system
+rotation matrix 
+0.999947 -0.00432361 0.00929419 
+0.00446314 0.999877 0.0150443 
+-0.009228 -0.015085 0.999844 
+
+translation vector
+25.0198  -0.2000  3.2308 
